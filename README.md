@@ -1,4 +1,4 @@
-# RTL Design  in Verilog using SKY130 Technology
+# Workshop-RTL-Design-using-Verilog-with-Sky130Tech
 
 <img src="images/Verilog-flyer.png">
 
