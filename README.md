@@ -646,7 +646,8 @@ Clearly, we can see that the RCA is working as intended and is implemented by 8 
 ## ACKNOWLEDGEMENTS
 
 * [Kunal Ghosh](https://github.com/kunalg123), Co-Founder [(VLSI SYSTEM DESIGN - VSD)](https://www.vlsisystemdesign.com/?v=a98eef2a3105)
-* [Shon Taware](https://github.com/ShonTaware)
+* Madhav Rao, Associate Professor, IIIT Bangalore
+* V N Muralidhara, Associate Professor, IIIT Bangalore
 
 
 ## References
